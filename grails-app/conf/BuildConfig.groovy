@@ -38,5 +38,6 @@ grails.project.dependency.resolution = {
 		compile 'org.vaadin:icepush-gwt:0.1.2'
 		compile 'com.vaadin.addon:beanvalidation-addon:0.6.2'
 		compile 'org.reflections:reflections:0.9.8'
+		test 'org.easymock:easymock:3.0'
 	}
 }
